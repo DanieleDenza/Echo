@@ -1,6 +1,6 @@
 import Foundation
 import AppKit
-/* prova prova
+/* prova prova proviamo anche questa prova qui 
 class AIResponder {
     private let apiKey = "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"
 
